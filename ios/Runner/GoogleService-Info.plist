@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>781901151301-5qs4ncf5n12hfuuv5ct1t7dlg31l4k6h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.781901151301-5qs4ncf5n12hfuuv5ct1t7dlg31l4k6h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBYdjJrMNh2FBH2Ncr67Y1vwO1HJbMYvBc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>781901151301</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.accelth.www.accelth</string>
+	<key>PROJECT_ID</key>
+	<string>acchealth-e4c3e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>acchealth-e4c3e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:781901151301:ios:cdd1f839bc582ba224372c</string>
+</dict>
+</plist>
